@@ -1,7 +1,7 @@
 const board = [
-  { type: 'color', value: 'red', shape: 'triangle' },
-  { type: 'color', value: 'orange', shape: 'triangle' },
-  { type: 'color', value: 'red', shape: 'triangle' },
+  {},
+  { type: 'color', value: 'orange', shape: 'triangle', curved: false },
+  { type: 'color', value: 'red', shape: 'triangle', curved: 'right' },
   { type: 'color', value: 'red', shape: 'triangle' },
   { type: 'color', value: 'red', shape: 'triangle' },
   { type: 'color', value: 'red', shape: 'triangle' },
