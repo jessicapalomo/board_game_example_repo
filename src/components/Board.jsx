@@ -1,16 +1,14 @@
 import { useContext } from 'react';
 import { AppContext } from '../context/AppContext';
 import Square from './Square';
-import Roll from './RollDice';
+import Roll from './Roll';
 import BOARD_DATA from '../constants';
 const Board = () => {
   const { position, setPosition } = useContext(AppContext);
 
   return (
     <>
-      <div>
-        <Roll />
-      </div>
+      <Roll />
       <div className="board">
         {BOARD_DATA.sort((a, b) => {
           return a.id > b.id ? 1 : a.id < b.id ? -1 : 0;

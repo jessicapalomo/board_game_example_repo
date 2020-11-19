@@ -1,6 +1,6 @@
 import { useContext } from 'react';
 import { AppContext } from '../context/AppContext';
-const RollDice = () => {
+const Roll = () => {
   const { roll, setRoll } = useContext(AppContext);
   const rollTheDice = () => {
     setRoll(Math.floor(Math.random() * 12 + 1));
@@ -13,4 +13,4 @@ const RollDice = () => {
   );
 };
 
-export default RollDice;
+export default Roll;
