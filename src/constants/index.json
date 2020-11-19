@@ -1,0 +1,322 @@
+[
+  {
+    "id": 40,
+    "name": "Boardwalk",
+    "type": "property",
+    "propertyGroup": "blue",
+    "price": 400,
+    "rent": 50
+  },
+  {
+    "id": 39,
+    "name": "Luxury Tax",
+    "type": "luxuryTax",
+    "propertyGroup": null,
+    "price": null,
+    "rent": null
+  },
+  {
+    "id": 38,
+    "name": "Park Place",
+    "type": "property",
+    "propertyGroup": "blue",
+    "price": 350,
+    "rent": 35
+  },
+  {
+    "id": 37,
+    "name": "Chance",
+    "type": "chance",
+    "propertyGroup": null,
+    "price": null,
+    "rent": null
+  },
+  {
+    "id": 36,
+    "name": "Short Line Railroad",
+    "type": "property",
+    "propertyGroup": "railroad",
+    "price": 200,
+    "rent": null
+  },
+  {
+    "id": 35,
+    "name": "Pennsylvania Avenue",
+    "type": "property",
+    "propertyGroup": "green",
+    "price": 320,
+    "rent": 28
+  },
+  {
+    "id": 34,
+    "name": "Community Chest",
+    "type": "communityChest",
+    "propertyGroup": null,
+    "price": null,
+    "rent": null
+  },
+  {
+    "id": 33,
+    "name": "North Carolina Avenue",
+    "type": "property",
+    "propertyGroup": "green",
+    "price": 300,
+    "rent": 26
+  },
+  {
+    "id": 32,
+    "name": "Pacific Avenue",
+    "type": "property",
+    "propertyGroup": "green",
+    "price": 300,
+    "rent": 26
+  },
+  {
+    "id": 31,
+    "name": "Go To Jail",
+    "type": "gotojail",
+    "propertyGroup": null,
+    "price": null,
+    "rent": null
+  },
+  {
+    "id": 30,
+    "name": "Marvin Gardens",
+    "type": "property",
+    "propertyGroup": "yellow",
+    "price": 280,
+    "rent": 24
+  },
+  {
+    "id": 29,
+    "name": "Water Works",
+    "type": "property",
+    "propertyGroup": "utility",
+    "price": 150,
+    "rent": null
+  },
+  {
+    "id": 28,
+    "name": "Ventnor Avenue",
+    "type": "property",
+    "propertyGroup": "yellow",
+    "price": 260,
+    "rent": 22
+  },
+  {
+    "id": 27,
+    "name": "Atlantic Avenue",
+    "type": "property",
+    "propertyGroup": "yellow",
+    "price": 260,
+    "rent": 22
+  },
+  {
+    "id": 26,
+    "name": "B&O Railroad",
+    "type": "property",
+    "propertyGroup": "railroad",
+    "price": 200,
+    "rent": null
+  },
+  {
+    "id": 25,
+    "name": "Illinois Avenue",
+    "type": "property",
+    "propertyGroup": "red",
+    "price": 240,
+    "rent": 20
+  },
+  {
+    "id": 24,
+    "name": "Indiana Avenue",
+    "type": "property",
+    "propertyGroup": "red",
+    "price": 220,
+    "rent": 18
+  },
+  {
+    "id": 23,
+    "name": "Chance",
+    "type": "chance",
+    "propertyGroup": null,
+    "price": null,
+    "rent": null
+  },
+  {
+    "id": 22,
+    "name": "Kentucky Avenue",
+    "type": "property",
+    "propertyGroup": "red",
+    "price": 220,
+    "rent": 18
+  },
+  {
+    "id": 21,
+    "name": "Free Parking",
+    "type": "free",
+    "propertyGroup": null,
+    "price": null,
+    "rent": null
+  },
+  {
+    "id": 20,
+    "name": "New York Avenue",
+    "type": "property",
+    "propertyGroup": "orange",
+    "price": 200,
+    "rent": 16
+  },
+  {
+    "id": 19,
+    "name": "Tennessee Avenue",
+    "type": "property",
+    "propertyGroup": "orange",
+    "price": 180,
+    "rent": 14
+  },
+  {
+    "id": 18,
+    "name": "Community Chest",
+    "type": "communityChest",
+    "propertyGroup": null,
+    "price": null,
+    "rent": null
+  },
+  {
+    "id": 17,
+    "name": "St. James Place",
+    "type": "property",
+    "propertyGroup": "orange",
+    "price": 180,
+    "rent": 14
+  },
+  {
+    "id": 16,
+    "name": "Pennsylvania Railroad",
+    "type": "property",
+    "propertyGroup": "railroad",
+    "price": 200,
+    "rent": null
+  },
+  {
+    "id": 15,
+    "name": "Virginia Avenue",
+    "type": "property",
+    "propertyGroup": "purple",
+    "price": 160,
+    "rent": 12
+  },
+  {
+    "id": 14,
+    "name": "States Avenue",
+    "type": "property",
+    "propertyGroup": "purple",
+    "price": 140,
+    "rent": 10
+  },
+  {
+    "id": 13,
+    "name": "Electric Company",
+    "type": "property",
+    "propertyGroup": "utility",
+    "price": 150,
+    "rent": null
+  },
+  {
+    "id": 12,
+    "name": "St. Charles Place",
+    "type": "property",
+    "propertyGroup": "purple",
+    "price": 140,
+    "rent": 10
+  },
+  {
+    "id": 11,
+    "name": "Visiting Jail",
+    "type": "jail",
+    "propertyGroup": null,
+    "price": null,
+    "rent": null
+  },
+  {
+    "id": 10,
+    "name": "Connecticut Avenue",
+    "type": "property",
+    "propertyGroup": "lightblue",
+    "price": 120,
+    "rent": 8
+  },
+  {
+    "id": 9,
+    "name": "Vermont Avenue",
+    "type": "property",
+    "propertyGroup": "lightblue",
+    "price": 100,
+    "rent": 6
+  },
+  {
+    "id": 8,
+    "name": "Chance",
+    "type": "chance",
+    "propertyGroup": null,
+    "price": null,
+    "rent": null
+  },
+  {
+    "id": 7,
+    "name": "Oriental Avenue",
+    "type": "property",
+    "propertyGroup": "lightblue",
+    "price": 100,
+    "rent": 6
+  },
+  {
+    "id": 6,
+    "name": "Reading Railroad",
+    "type": "property",
+    "propertyGroup": "railroad",
+    "price": 200,
+    "rent": null
+  },
+  {
+    "id": 5,
+    "name": "Income Tax",
+    "type": "incomeTax",
+    "propertyGroup": null,
+    "price": null,
+    "rent": null
+  },
+  {
+    "id": 4,
+    "name": "Baltic Avenue",
+    "type": "property",
+    "propertyGroup": "purple",
+    "price": 60,
+    "rent": 4
+  },
+  {
+    "id": 3,
+    "name": "Community Chest",
+    "type": "communityChest",
+    "propertyGroup": null,
+    "price": null,
+    "rent": null
+  },
+  {
+    "id": 2,
+    "name": "Mediterranean Avenue",
+    "type": "property",
+    "propertyGroup": "purple",
+    "price": 60,
+    "rent": 2
+  },
+  {
+    "id": 1,
+    "name": "Pass Go!",
+    "type": "passGo",
+    "propertyGroup": null,
+    "price": null,
+    "rent": null
+  }
+]
